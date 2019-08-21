@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-function window.getIt() {
+function getIt() {
   $('p').on("click", function () {
     alert("Hey!");
   })
